@@ -1,0 +1,7 @@
+.list-div-categories {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 2vmin;
+    margin-bottom: 3vmin;
+}
