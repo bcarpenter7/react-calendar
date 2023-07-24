@@ -9,3 +9,47 @@
     display: flex;
     justify-content: center;
 }
+
+
+
+.list-div-categories {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 2vmin;
+    margin-bottom: 3vmin;
+}
+
+
+
+.item-div-category {
+    border: 2px solid black;
+    width: 100%;
+    border-radius: 5px;
+    padding-bottom: 6vmin;
+    color: white;
+}
+
+.active {
+    box-shadow: 10px 5px 5px black;
+}
+
+.item-div-category > * {
+    margin-top: .5vmin;
+}
+
+.item-0{
+    background-color: gold;
+}
+
+.item-1{
+    background-color: blue;
+}
+
+.item-2{
+    background-color: green;
+}
+
+.item-3{
+    background-color: red;
+}

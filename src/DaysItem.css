@@ -13,3 +13,19 @@
     text-align: center;
 
 }
+
+.active-0 {
+    background-color: yellow;
+}
+
+.active-1 {
+    background-color: blue;
+}
+
+.active-2 {
+    background-color: green;
+}
+
+.active-3 {
+    background-color: red;
+}
